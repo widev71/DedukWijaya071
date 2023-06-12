@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    background: url(wallpaperflare.com_wallpaper.jpg) ;
+    background-position: center;
+    background-size: cover;
+}
+
+.card{
+    font-family: "Candara", sans-serif;
+    width: 320px;
+    overflow: hidden;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+}
+
+.card-image{
+    width: 100%;
+    height: 170px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: scale-down;
+}
+.frofile-image img{
+    z-index: 1;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    margin-top: -75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+    border: 5px solid #fff;
+    transition-duration: 0.4s;
+    transition-property: transform;
+}
+
+.frofile-image img :hover{
+    transform: scale(1.1);
+}
+
+.card-konten h3{
+    font-size: 25px;
+    text-align: center;
+    margin: 0;
+}
+
+.card-konten p{
+    font: size 16px; 
+    text-align: center;
+    padding: 0 20px 5px 20px;
+    text-transform: calc(1.2);
+}
+
+.icons{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 30px;
+}
+
+.icons i{
+    text-decoration: none;
+    font-size: 20px;
+    color: #0ABDE3;
+    padding: 0 14px;
+    transition-duration: 0.4s;
+    transition-property:  transform;
+}
+
+.icons i:hover{
+    color: #000;
+    transform: scale(1.5);
+
+}
