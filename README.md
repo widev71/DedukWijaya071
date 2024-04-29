@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Made Wijaya</h1>
 <h3 align="center">Just Junior Web Development</h3>
 
-<img align="right"  alt="[coding" widht="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3IzM25jZ29ubWl2MTA5aDVzMzdqbWRkYnlrZHFwNXNuZ2IwemttaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y10FV4bcxpWrfKYO1d/giphy.gif](https://i.giphy.com/Y10FV4bcxpWrfKYO1d.webp)">
+<img align="right"  alt="[coding" widht="400" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3IzM25jZ29ubWl2MTA5aDVzMzdqbWRkYnlrZHFwNXNuZ2IwemttaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y10FV4bcxpWrfKYO1d/giphy.gif](https://i.giphy.com/Y10FV4bcxpWrfKYO1d.webp)](https://i.giphy.com/23oMA4oE5ypVcDLlL2.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedukwijaya071&label=Profile%20views&color=0e75b6&style=flat" alt="dedukwijaya071" /> </p>
 
