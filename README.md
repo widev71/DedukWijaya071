@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedukwijaya071&label=Profile%20views&color=0e75b6&style=flat" alt="dedukwijaya071" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@dedukme" target="blank"><img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1224184972.1713744000&semt=ais" alt="@dedukme" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dedukme" target="blank"><img src="https://img.shields.io/twitter/follow/@dedukme?logo=twitter&style=for-the-badge" alt="@dedukme" /></a> </p>
+
+- 🏫 Hi, I,m Student in SMK Negeri 1 Tampaksiring [HI](HI)
 
 - 🌱 I’m currently learning **JavaScrip,Python and other**
 
@@ -13,12 +15,12 @@
 
 - 📫 How to reach me **dedukwijaya@gmail.com**
 
-- ⚡ Fun fact **ATM (Amati Tiru Modifikasi🗿)**
+- ⚡ Fun fact **I Think i crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@dedukme" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="@dedukme" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/imade-wijaya-594253280/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="made-wijaya" height="30" width="40" /></a>
+<a href="https://twitter.com/@dedukme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dedukme" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/made-wijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="made-wijaya" height="30" width="40" /></a>
 <a href="https://instagram.com/@madewijaya072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@madewijaya072" height="30" width="40" /></a>
 </p>
 
