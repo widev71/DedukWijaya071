@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/@dedukme" target="blank"><img src="https://img.shields.io/twitter/follow/@dedukme?logo=twitter&style=for-the-badge" alt="@dedukme" /></a> </p>
 
-- 🏫 Hi, I,m Student in SMK Negeri 1 Tampaksiring [HI](HI)
-
 - 🌱 I’m currently learning **JavaScrip,Python and other**
 
 - 👨‍💻 All of my projects are available at [wijaya-dev.vercel.app](wijaya-dev.vercel.app)
