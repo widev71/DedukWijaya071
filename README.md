@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dedukwijaya@gmail.com**
 
-- ⚡ Fun fact **ATM (Amati Tiru Modifikasi🗿**
+- ⚡ Fun fact **ATM (Amati Tiru Modifikasi🗿)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
