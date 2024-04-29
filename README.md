@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **JavaScrip,Python and other**
 
-- 👨‍💻 All of my projects are available at [https://wijaya-dev.vercel.app](wijaya-dev.vercel.app)
+- 👨‍💻 All of my projects are available at [wijaya-dev.vercel.app](https://wijaya-dev.vercel.app)
 
-- 📝 My other Fortofolio [https://ducky-tech.vercel.app](ducky-tech.vercel.app)
+- 📝 My other Fortofolio [ducky-tech.vercel.app](https://ducky-tech.vercel.app)
 
 - 📫 How to reach me **dedukwijaya@gmail.com**
 
