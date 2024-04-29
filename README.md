@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedukwijaya071&label=Profile%20views&color=0e75b6&style=flat" alt="dedukwijaya071" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@dedukme" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="@dedukme" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dedukme" target="blank"><img src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1224184972.1713744000&semt=ais" alt="@dedukme" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScrip,Python and other**
 
