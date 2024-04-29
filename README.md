@@ -1,3 +1,4 @@
+![Logo](https://t3.ftcdn.net/jpg/05/92/92/44/240_F_592924495_WTAd1880oQHe5CsS3cwug2fXaRTvldqL.jpg)
 <h1 align="center">Hi 👋, I'm Made Wijaya</h1>
 <h3 align="center">Just Junior Web Development</h3>
 
