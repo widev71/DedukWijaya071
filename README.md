@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dedukwijaya@gmail.com**
 
-- ⚡ Fun fact **I Think i crazy**
+- ⚡ Fun fact >**ATP (Amati Tiru Plek-Keteplek)🗿🗿🗿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
