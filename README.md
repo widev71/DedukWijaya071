@@ -8,14 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/@dedukme" target="blank"><img src="https://img.shields.io/twitter/follow/@dedukme?logo=twitter&style=for-the-badge" alt="@dedukme" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScrip,Python and other**
-
-- 👨‍💻 All of my projects are available at [wijaya-dev.vercel.app](https://wijaya-dev.vercel.app)
-
-- 📝 My other Fortofolio [ducky-tech.vercel.app](https://ducky-tech.vercel.app)
-
+- 🏫 I study at  **SMK Negeri 1 Tampaksiring**
+- 🌱 I’m learning **HTML, CSS, JavaScrip**
+- 👨‍💻 My Website [wijaya-dev.vercel.app](https://wijaya-dev.vercel.app)
 - 📫 How to reach me **dedukwijaya@gmail.com**
-
 - ⚡ Fun fact >**ATP (Amati Tiru Plek-Keteplek)🗿🗿🗿**
 
 <h3 align="left">Connect with me:</h3>
