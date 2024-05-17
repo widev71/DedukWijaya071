@@ -8,12 +8,26 @@
 
 <p align="left"> <a href="https://twitter.com/@dedukme" target="blank"><img src="https://img.shields.io/twitter/follow/@dedukme?logo=twitter&style=for-the-badge" alt="@dedukme" /></a> </p>
 
-- 🏫 I study at  **SMK Negeri 1 Tampaksiring**
-- 🌱 I’m learning **HTML, CSS, JavaScrip**
-- 👨‍💻 My Website [wijaya-dev.vercel.app](https://wijaya-dev.vercel.app)
-- 📫 How to reach me **dedukwijaya@gmail.com**
-- ⚡ Fun fact >**ATP (Amati Tiru Plek-Keteplek)🗿🗿🗿**
+# Who is me ? 🤨
 
+```javascript
+class About extends Me {
+  constructor() {
+    this.name = "Ardhi Putra Pradana";
+    this.pronouns = "He" | "Him";
+    this.address = "Semarang, Jawa Tengah, Indonesia";
+    this.school = "SMK N 7 Semarang";
+  }
+
+  function getDescriptions(){
+    return `Hi, my name is ${this.name}, currently I am a student at ${this.school}. I really enjoy when writing code, because it's like playing a game`;
+  }
+
+  function getFutureGoal(){
+    return "To become a programmer";
+  }
+}
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@dedukme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dedukme" height="30" width="40" /></a>
