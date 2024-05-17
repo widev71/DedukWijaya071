@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
+<div align="center">
 <table>
     <tr>
         <td align="center" width="96">
