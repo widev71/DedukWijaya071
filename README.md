@@ -25,12 +25,16 @@
 <table>
     <tr>
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-            <br>Javascript
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="css" />
-            <br>React Js
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br>CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>Javascript
         </td>
         <td align="center" width="96">
             <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
@@ -46,14 +50,6 @@
             <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"
                 width="48" height="48" alt="GitLab" />
             <br>GitLab
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-            <br>HTML
-        </td>
-        <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-            <br>CSS
         </td>
     </tr>
     <tr align="center">
