@@ -1,8 +1,6 @@
 ![Logo](https://as2.ftcdn.net/v2/jpg/04/46/93/93/1000_F_446939375_83iP0UYTg5F9vHl6icZwgrEBHXeXMVaU.jpg)
-<h1 align="center">Hi 👋, I'm Made Wijaya</h1>
-<h3 align="center">Just Junior Web Development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedukwijaya071&label=Profile%20views&color=0e75b6&style=flat" alt="dedukwijaya071" /> </p>
+<h1 align="center">Hi  Visitor👋<h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dedukwijaya071&label=Profile%20views&color=0e75b6&style=flat" alt="dedukwijaya071" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/made-wijaya-594253280/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madewijaya072/)
@@ -11,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/GitHub_Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/DedukWijaya071)
 [![](https://visitcount.itsvg.in/api?id=ardhptr21&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-# Who is me ? 
+<h3 align="center">ABOUT ME:</h3>
 
 ```javascript
 class About extends Me {
@@ -23,7 +21,8 @@ class About extends Me {
   }
 
   function getDescriptions(){
-    return `Hi, my name is ${this.name}, currently I am a student at ${this.school}. I really enjoy when writing code, because it's like playing a game`;
+    return `Hi, my name is ${this.name}, currently I am a student at ${this.school}.
+    I really enjoy when writing code, because it's like playing a game`;
   }
 
   function getFutureGoal(){
@@ -31,14 +30,11 @@ class About extends Me {
   }
 }
 ```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@dedukme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dedukme" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/made-wijaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="made-wijaya" height="30" width="40" /></a>
-<a href="https://instagram.com/@madewijaya072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@madewijaya072" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h1></h1>
+<h3 align="center">LANGUAGES AND TOOLS:</h3>
+<h1></h1>
 <div align="center">
 <table>
     <tr>
