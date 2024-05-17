@@ -22,6 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<div>
 <table>
     <tr>
         <td align="center" width="96">
@@ -79,6 +80,7 @@
         </td>
     </tr>
 </table>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedukwijaya071&show_icons=true&locale=en&layout=compact" alt="dedukwijaya071" /></p>
 
