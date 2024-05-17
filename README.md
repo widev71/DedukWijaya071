@@ -34,7 +34,6 @@ class About extends Me {
 
 <h1></h1>
 <h3 align="center">LANGUAGES AND TOOLS:</h3>
-<h1></h1>
 <div align="center">
 <table>
     <tr>
