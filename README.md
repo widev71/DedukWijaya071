@@ -14,7 +14,7 @@
 ```javascript
 class About extends Me {
   constructor() {
-    this.name = "I Made Wijaya";
+    this.myname = "I Made Wijaya";
     this.pronouns = "Hes";
     this.address = "Gianyar, Bali , Indonesia";
     this.school = "SMK N 1 Tampaksiring";
